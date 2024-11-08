@@ -1,5 +1,5 @@
 {
-  "Bundles":[
+  "bundles":[
     {
       "name": "model",
       "version": "1.0",
